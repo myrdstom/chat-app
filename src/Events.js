@@ -1,0 +1,11 @@
+module.exports = {
+    COMMUNITY_CHAT,
+    USER_CONNECTED,
+    MESSAGE_RECEIVED,
+    MESSAGE_SENT,
+    USER_DICSONNECTED,
+    TYPING,
+    VERIFY_USER,
+    LOGOUT,
+
+}
